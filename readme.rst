@@ -1,3 +1,12 @@
+Source Code ini dibuat untuk portofolio.
+Template yang digunakan:
+- Bootstrap 4
+- Dashboard bootstrap template
+- Gentelella alea bootstrap 3
+
+Framework yang digunakan:
+- Codeigniter PHP
+
 ###################
 What is CodeIgniter
 ###################
